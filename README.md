@@ -12,7 +12,7 @@ ChessConsole is a project developed in C# that allows players to enjoy chess mat
 ## Features 🚀
 - Complete chess game, including all movements and rules of the game.
 - User-friendly console interface, allowing a smooth and engaging gaming experience.
-- Ability to play against another player or against a computer-controlled opponent.
+- Ability to play against another player on the computer
   
 ## How to Play 🎮
 To start a match, follow these instructions:
